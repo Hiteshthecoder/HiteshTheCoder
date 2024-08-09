@@ -17,5 +17,6 @@
 #figma DQCare Url- https://www.figma.com/design/wOMt6jjVrAXmvkwGtlf2Vi/DQ-Care-App?node-id=1000-1288&t=xQiWWXyZ1v3ArwPB-0
 
 #github DQCare Url - https://github.com/Samarth-09/HealthDetail-Patient-main.git
+#postman new collection - https://documenter.getpostman.com/view/11988221/2s9YR85E3V#1e2e3b24-19fc-4e9c-b366-ba13643d3d1a
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
