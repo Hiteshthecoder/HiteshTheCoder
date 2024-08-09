@@ -14,4 +14,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=HiteshTheCoder&icon=0&color=0)](https://visitcount.itsvg.in)
 
+#figma DQCare Url- https://www.figma.com/design/wOMt6jjVrAXmvkwGtlf2Vi/DQ-Care-App?node-id=1000-1288&t=xQiWWXyZ1v3ArwPB-0
+
+#github DQCare Url - https://github.com/Samarth-09/HealthDetail-Patient-main.git
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
